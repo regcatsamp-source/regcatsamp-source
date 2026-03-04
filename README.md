@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**regcatsamp-source/regcatsamp-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Дмитрий Калинин
 
-Here are some ideas to get you started:
+Я студент IT-направления и изучаю программирование.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Образование
+
+Студент IT-направления.
+
+---
+
+## 💻 Навыки
+
+- C#
+- Git
+- GitHub
+- HTML
+
+---
+
+## 🚀 Репозитории
+
+- laba1kalinindabpi2302
+- laba-1.2
+- laba4.1
+- laba4.2
+
+---
+
+## 📫 Контакты
+
+GitHub: https://github.com/regcatsamp-source
